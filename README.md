@@ -1,4 +1,6 @@
 #A simple blog project using Sanity Studio components and React
 
+Styled using Tailwind CSS framework
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
